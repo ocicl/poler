@@ -1,0 +1,10 @@
+* poler
+
+An infix notation macro generator for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/carrotflakes/poler.git   |
+| commit  | 977adf4  |
+| systems | poler |
+|---------+-------------------------------------------|
+
